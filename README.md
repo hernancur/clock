@@ -8,4 +8,6 @@
 
 
 
-## To see it working, simply download the repository, and open in a browser the file 'clock.html'.
+### Instructions
+
+##### To see it working, simply download the repository, and open in a browser the file 'clock.html'.
